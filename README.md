@@ -25,6 +25,7 @@
 ### Practice
 
 - [Learning GIT BASH](https://up1.github.io/git-guide/index.html)
+- [GIT Tutorial with LIVE commands on a dummy project](https://youtu.be/tRZGeaHPoaw?si=RuEuSOCL6QaPtUd9)
 - [Java Basics - Skip the topics that you already know. Play the videos with extra speed](https://www.youtube.com/playlist?list=PL9DF6E4B45C36D411)
 
 
@@ -34,7 +35,9 @@
 - [PODCAST Andrei Dunca. Absolvent Calculatoare UTCN, Fondator Trilulilu, fondator LiveRail, startup cumpărat de Facebook cu 500 milioane $](https://www.youtube.com/watch?v=Z0RWeMWriAE&t=1260s)
 
 ### Theory
+- [SOLID Principles with Examples](https://www.baeldung.com/solid-principles)
 - [An example of transgresion of the Liskov Substitution Principle](https://www.oodesign.com/liskov-s-substitution-principle.html)
+- [Coupling in JAVA](https://www.baeldung.com/java-coupling-classes-tight-loose)
 - [Design Patterns](https://refactoring.guru/design-patterns)
 - ["Uncle Bob" on Design Patterns](http://blog.cleancoder.com/uncle-bob/2014/06/30/ALittleAboutPatterns.html)
 - [Data Access Object Pattern](https://www.tutorialspoint.com/design_pattern/data_access_object_pattern.htm)
