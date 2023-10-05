@@ -13,7 +13,7 @@
 
 ### Story
 
-- [Coding Skill is More Valuable Than Ever - Don't let the ease of prompting large language models discourage you from learning to code](https://www.deeplearning.ai/the-batch/coding-skill-is-more-valuable-than-ever/)
+- [(GPT) Andrej Karpathy - Former Director of AI at Tesla, currently working at OpenAI - Coding Skill is More Valuable Than Ever - Don't let the ease of prompting large language models discourage you from learning to code](https://www.deeplearning.ai/the-batch/coding-skill-is-more-valuable-than-ever/)
 - [Cum vrea un fost angajat Google să schimbe România: „Ieşim din corporaţii, construim companii”](https://adevarul.ro/locale/cluj-napoca/cum-vrea-fost-angajat-google-schimbe-romania-iesim-corporatii-construim-companii-1_5f0326c45163ec4271b33633/index.html)
 
 ### Theory
