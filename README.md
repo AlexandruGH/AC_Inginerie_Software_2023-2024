@@ -19,6 +19,8 @@
 ### Theory
 
 - [OOP Principles](https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260/)
+- [Polymorphism Static vs Dynamic](https://www.geeksforgeeks.org/polymorphism-in-java/)
+- [Polymorphism Types & Possible Problems](https://www.baeldung.com/java-polymorphism)
 - [The Clean Code Talks - Inheritance, Polymorphism, & Testing](https://www.youtube.com/watch?v=4F72VULWFvc)
 - [SOLID Principles](https://hackernoon.com/solid-principles-made-easy-67b1246bcdf)
 
