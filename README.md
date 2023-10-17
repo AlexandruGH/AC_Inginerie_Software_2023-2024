@@ -61,6 +61,7 @@
 - [Better Commit Messages](https://skerritt.blog/writing-better-commit-messages/)
 - [TDD - Test Driven Development. Writing tests first.](https://martinfowler.com/bliki/TestDrivenDevelopment.html)
 - [final keyword in JAVA]([https://www.youtube.com/watch?v=z9quxZsLcfo&list=PLJb2p0qX8R_qSRhs14CiwKuDuzERXSU8m&ab_channel=Thoughtworks](https://www.baeldung.com/java-final)https://www.baeldung.com/java-final)
+- [Immutability - Functional Programming with JAVA](https://belief-driven-design.com/functional-programming-with-java-immutability-ae3372311b9/)
 - [volatile keyword in JAVA](https://www.geeksforgeeks.org/volatile-keyword-in-java/)
 - [Thread Safe with double checking Singleton in JAVA](https://www.baeldung.com/java-singleton-double-checked-locking)
 - [Java. Pass by Value vs Pass by Reference](https://www.baeldung.com/java-pass-by-value-or-pass-by-reference)
