@@ -31,7 +31,7 @@
 - [Java Basics - Skip the topics that you already know. Play the videos with extra speed](https://www.youtube.com/playlist?list=PL9DF6E4B45C36D411)
 
 
-## Laborator 2 - SOLID & Design Patterns
+## Laborator 2 - SOLID 
 
 ### Story
 - [PODCAST Andrei Dunca. Absolvent Calculatoare UTCN, Fondator Trilulilu, fondator LiveRail, startup cumpărat de Facebook cu 500 milioane $](https://www.youtube.com/watch?v=Z0RWeMWriAE&t=1260s)
@@ -47,5 +47,26 @@
 
 ### Practice
  - [Java Design Patterns tutorial. Play the videos with extra speed](https://www.youtube.com/playlist?list=PLtTVgBdymZBjtal6O9bw1esdLFiF73hdz)
+
+
+## Laborator 3 - Dependency Injection & Design Patterns
+
+### Story
+- [Rada Mihalcea. Povestea româncei absolvente de UTCN Calculatoare care a ajuns în topul geniilor din SUA](https://adevarul.ro/stiri-locale/cluj-napoca/exclusiv-povestea-romancei-care-l-a-cucerit-pe-1563851.html)
+
+### Theory
+- [Strong vs Loose Coupling](https://www.baeldung.com/java-coupling-classes-tight-loose)
+- [Dependency Injection Explained in 15 seconds.](https://www.youtube.com/watch?v=J1f5b4vcxCQ&ab_channel=CodeAesthetic)
+- [Dependency Injection and history explained. First 10 minutes of video are more relevant. Not necessary to follow the entire video with Dagger and stuff.](https://www.youtube.com/watch?v=oK_XtfXPkqw&ab_channel=GoogleforDevelopers)
+- [Better Commit Messages](https://skerritt.blog/writing-better-commit-messages/)
+- [TDD - Test Driven Development. Writing tests first.](https://martinfowler.com/bliki/TestDrivenDevelopment.html)
+- [final keyword in JAVA]([https://www.youtube.com/watch?v=z9quxZsLcfo&list=PLJb2p0qX8R_qSRhs14CiwKuDuzERXSU8m&ab_channel=Thoughtworks](https://www.baeldung.com/java-final)https://www.baeldung.com/java-final)
+- [volatile keyword in JAVA](https://www.geeksforgeeks.org/volatile-keyword-in-java/)
+- [Thread Safe with double checking Singleton in JAVA](https://www.baeldung.com/java-singleton-double-checked-locking)
+- [Java. Pass by Value vs Pass by Reference](https://www.baeldung.com/java-pass-by-value-or-pass-by-reference)
+- [Hyperthreading](https://www.youtube.com/watch?v=wnS50lJicXc&t=202s&ab_channel=Techquickie)
+
+### Practice
+- [3 Design Patterns Examples Implementation from each category](https://refactoring.guru/design-patterns/catalog)
 
 
