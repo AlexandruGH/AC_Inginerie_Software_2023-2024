@@ -71,3 +71,27 @@
 - [3 Design Patterns Examples Implementation from each category](https://refactoring.guru/design-patterns/catalog)
 
 
+## Laborator 4 - Design Patterns & Layers
+
+### Story
+- [Clean Code Talks "Global States and Singletons"](https://www.youtube.com/watch?v=-FRm3VPhseI&ab_channel=GoogleTechTalks)
+
+### Theory 
+- [Java is Pass by Value](https://www.baeldung.com/java-pass-by-value-or-pass-by-reference)
+- [Java Shallow Copy vs Deep Copy](https://www.baeldung.com/cs/deep-vs-shallow-copy)
+- [Java Immutability](https://www.baeldung.com/java-immutable-object)
+- [POJO vs Java Bean](https://www.baeldung.com/java-pojo-class)
+- [Why almost everyone gets a POJO wrong?](https://www.youtube.com/watch?v=oqPiEc2zNb0&ab_channel=CodingwithJohn)
+- [Layers Software Architecture](https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/ch01.html)
+- [Why is Singleton considered an anti-pattern?](https://stackoverflow.com/questions/12755539/why-is-singleton-considered-an-anti-pattern)
+- [Oracle JDK vs OpenJDK](https://www.baeldung.com/oracle-jdk-vs-openjdk)
+
+### Practice
+
+#### MySQL installation 
+- [MySQL Installer - after running the installer make sure you will have the mysql server, workbench and jdbc connector installed](https://dev.mysql.com/downloads/installer/)
+
+- [Java Debugging in IntelliJ](https://www.youtube.com/watch?v=1bCgzjatcr4)
+- [MySQL Tutorial](https://www.youtube.com/playlist?list=PLmpc3xvYSk4wGOo2TY0qNsu62PsHfU1vh)
+
+
