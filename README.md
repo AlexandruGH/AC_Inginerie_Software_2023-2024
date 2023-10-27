@@ -88,10 +88,14 @@
 
 ### Practice
 
+- [SOLID Homework Exercises Solved](https://github.com/AlexandruGH/AC_Inginerie_Software_2023-2024/tree/solid/solid/solvedSolid)
+- [Java Debugging in IntelliJ](https://www.youtube.com/watch?v=1bCgzjatcr4)
+ 
+- [Lab code project - each group has its own branch](https://github.com/AlexandruGH/AC_Inginerie_Software_2023-2024/tree/grupa30234/Grupa_30234)
+
 #### MySQL installation 
 - [MySQL Installer - after running the installer make sure you will have the mysql server, workbench and jdbc connector installed](https://dev.mysql.com/downloads/installer/)
 
-- [Java Debugging in IntelliJ](https://www.youtube.com/watch?v=1bCgzjatcr4)
 - [MySQL Tutorial](https://www.youtube.com/playlist?list=PLmpc3xvYSk4wGOo2TY0qNsu62PsHfU1vh)
 
 
