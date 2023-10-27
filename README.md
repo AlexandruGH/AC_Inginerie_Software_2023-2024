@@ -83,15 +83,19 @@
 - [POJO vs Java Bean](https://www.baeldung.com/java-pojo-class)
 - [Why almost everyone gets a POJO wrong?](https://www.youtube.com/watch?v=oqPiEc2zNb0&ab_channel=CodingwithJohn)
 - [Layers Software Architecture](https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/ch01.html)
-- [Why is Singleton considered an anti-pattern?](https://stackoverflow.com/questions/12755539/why-is-singleton-considered-an-anti-pattern)
+- [Why is Singleton considered an anti-pattern?](https://medium.com/aia-sg-techblog/why-singleton-pattern-is-considered-as-anti-design-pattern-c81dd8b7e757)
 - [Oracle JDK vs OpenJDK](https://www.baeldung.com/oracle-jdk-vs-openjdk)
 
 ### Practice
 
+- [SOLID Homework Exercises Solved](https://github.com/AlexandruGH/AC_Inginerie_Software_2023-2024/tree/solid/solid/solvedSolid)
+- [Java Debugging in IntelliJ](https://www.youtube.com/watch?v=1bCgzjatcr4)
+ 
+- [Lab code project - each group has its own branch](https://github.com/AlexandruGH/AC_Inginerie_Software_2023-2024/tree/grupa30234/Grupa_30234)
+
 #### MySQL installation 
 - [MySQL Installer - after running the installer make sure you will have the mysql server, workbench and jdbc connector installed](https://dev.mysql.com/downloads/installer/)
 
-- [Java Debugging in IntelliJ](https://www.youtube.com/watch?v=1bCgzjatcr4)
 - [MySQL Tutorial](https://www.youtube.com/playlist?list=PLmpc3xvYSk4wGOo2TY0qNsu62PsHfU1vh)
 
 
