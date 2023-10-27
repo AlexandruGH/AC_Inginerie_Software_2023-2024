@@ -95,6 +95,8 @@
 
 #### MySQL installation 
 - [MySQL Installer - after running the installer make sure you will have the mysql server, workbench and jdbc connector installed](https://dev.mysql.com/downloads/installer/)
+- [XAMPP Installation - make sure mysql is started](https://www.apachefriends.org/)
+- [TCP View Installation - allows you to see ports and close down applications](https://learn.microsoft.com/en-us/sysinternals/downloads/tcpview)
 
 - [MySQL Tutorial](https://www.youtube.com/playlist?list=PLmpc3xvYSk4wGOo2TY0qNsu62PsHfU1vh)
 
