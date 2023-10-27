@@ -83,7 +83,7 @@
 - [POJO vs Java Bean](https://www.baeldung.com/java-pojo-class)
 - [Why almost everyone gets a POJO wrong?](https://www.youtube.com/watch?v=oqPiEc2zNb0&ab_channel=CodingwithJohn)
 - [Layers Software Architecture](https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/ch01.html)
-- [Why is Singleton considered an anti-pattern?](https://stackoverflow.com/questions/12755539/why-is-singleton-considered-an-anti-pattern)
+- [Why is Singleton considered an anti-pattern?](https://medium.com/aia-sg-techblog/why-singleton-pattern-is-considered-as-anti-design-pattern-c81dd8b7e757)
 - [Oracle JDK vs OpenJDK](https://www.baeldung.com/oracle-jdk-vs-openjdk)
 
 ### Practice
