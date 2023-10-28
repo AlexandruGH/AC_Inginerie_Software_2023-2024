@@ -98,6 +98,8 @@
 - [XAMPP] (https://www.apachefriends.org/) 
 - [TCP View](https://learn.microsoft.com/en-us/sysinternals/downloads/tcpview)
 
+#### MySQL Tutorial
+
 - [MySQL Tutorial](https://www.youtube.com/playlist?list=PLmpc3xvYSk4wGOo2TY0qNsu62PsHfU1vh)
 
 
