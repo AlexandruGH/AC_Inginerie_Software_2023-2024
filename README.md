@@ -101,6 +101,9 @@
 - [In order for mysql command to work in terminal we must add it to the PATH. Add MYSQL_PATH/bin to PATH](https://www.architectryan.com/2018/03/17/add-to-the-path-on-windows-10/)
 - [IntelliJ Database view plugin](https://www.jetbrains.com/help/idea/2023.1/database-tool-window.html)
 
+#### MySQL Dependency for Gradle
+- [MySQL Dependency for Gradle. To include in the dependencies block from build.gradle.](https://mvnrepository.com/artifact/mysql/mysql-connector-java/8.0.33)
+
 #### MySQL Tutorial
 
 - [MySQL Tutorial](https://www.youtube.com/playlist?list=PLmpc3xvYSk4wGOo2TY0qNsu62PsHfU1vh)
@@ -145,7 +148,7 @@
 ### Practice
 
 #### Lab code example. Make sure it runs, fill in the missing repository methods and reproduce SQL Injection Attack. Debugger is your friend. 
-- [MySQL Dependency for Gradle. To include in the dependencies block from build.gradle.](https://mvnrepository.com/artifact/mysql/mysql-connector-java/8.0.33)
+#### MySQL Tutorial
 - [Really NICE MySQL Command Line Tutorial (Foreign Keys, Joins, Indexes, Triggers, Stored Procedures, etc.) - just skip the linux distro setup at the start.](https://www.youtube.com/watch?v=uWkcxasFWzQ)
 
 
