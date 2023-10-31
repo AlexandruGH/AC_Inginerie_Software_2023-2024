@@ -1,5 +1,6 @@
 package model;
 
+import java.time.LocalDate;
 import java.util.Date;
 
 // POJO - Plain Old Java Object
@@ -12,7 +13,7 @@ public class Book{
 
     private String title;
 
-    private Date publishedDate;
+    private LocalDate publishedDate;
 
     public Long getId() {
         return id;
@@ -38,11 +39,16 @@ public class Book{
         this.title = title;
     }
 
-    public Date getPublishedDate() {
+    public LocalDate getPublishedDate() {
         return publishedDate;
     }
 
-    public void setPublishedDate(Date publishedDate) {
+    public void setPublishedDate(LocalDate publishedDate) {
         this.publishedDate = publishedDate;
+    }
+
+    @Override
+    public String toString(){
+        return String.format("Book author: %s | title: %s | Published Date: %s.", author, title, publishedDate);
     }
 }
