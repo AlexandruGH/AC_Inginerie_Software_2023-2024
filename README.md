@@ -113,7 +113,7 @@
 
 ### Theory 
 
-#### SQL Injection Concept Attack & Defence
+#### SQL Injection Concept Attack & Defense
 - [SQL Injection Concept](https://youtu.be/_jKylhJtPmI?si=aAsNzd5KMsvbG6AS)
 - [SQL Injection in JAVA and Types of SQL Injection](https://www.digitalocean.com/community/tutorials/sql-injection-in-java)
 - [PreparedStatement - How to prevent SQL Injection](https://www.baeldung.com/sql-injection)
@@ -130,7 +130,7 @@
 - [One-To-One, One-To-Many and Many-To-Many relationships in Database Design](https://dzone.com/articles/how-to-handle-a-many-to-many-relationship-in-datab)
 
 #### Indexes specifics B-Trees: Search, Insert, Delete Times of O(Log(N))
-- [Why SQL Indexes uses B-Trees instead of Hash Tables which have much faster Look-Up, Insert and Delete Times O(1) instead of O(logN) for B-Trees](https://dev.mysql.com/doc/refman/8.0/en/index-btree-hash.html)
+- [Why SQL Indexes uses B-Trees instead of Hash Tables which have much faster Look-Up, Insert and Delete Times of O(1) instead of O(logN) for B-Trees?](https://dev.mysql.com/doc/refman/8.0/en/index-btree-hash.html)
 - [Same as Above - Short StackOverflow answer](https://stackoverflow.com/questions/1636379/why-db-indexes-use-balanced-trees-not-hashtables)
 - [B-Trees and B+Trees in Databases](https://builtin.com/data-science/b-tree-index)
 
