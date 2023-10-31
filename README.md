@@ -95,11 +95,53 @@
 
 #### MySQL installation 
 - [MySQL Installer - after running the installer make sure you will have the mysql server, workbench and jdbc connector installed](https://dev.mysql.com/downloads/installer/)
-- [XAMPP] (https://www.apachefriends.org/) 
-- [TCP View](https://learn.microsoft.com/en-us/sysinternals/downloads/tcpview)
+- [XAMPP Installation - make sure mysql is started](https://www.apachefriends.org/)
+- [TCP View Installation - allows you to see ports and close down applications](https://learn.microsoft.com/en-us/sysinternals/downloads/tcpview)
+- [How to find mysql installation path](https://sqlbak.com/blog/how-to-find-path-to-mysql-installation-directory-on-windows-and-add-it-to-path-environment-variable/)
+- [In order for mysql command to work in terminal we must add it to the PATH. Add MYSQL_PATH/bin to PATH](https://www.architectryan.com/2018/03/17/add-to-the-path-on-windows-10/)
+- [IntelliJ Database view plugin](https://www.jetbrains.com/help/idea/2023.1/database-tool-window.html)
 
 #### MySQL Tutorial
 
 - [MySQL Tutorial](https://www.youtube.com/playlist?list=PLmpc3xvYSk4wGOo2TY0qNsu62PsHfU1vh)
+
+
+## Laborator 5 - Layers Repository & Database
+
+### Story
+- [Clean Code Talks - Don't Look for Things](https://www.youtube.com/watch?v=RlfLCWKxHJ0) 
+
+### Theory 
+- [SQL Injection Concept](https://youtu.be/_jKylhJtPmI?si=aAsNzd5KMsvbG6AS)
+- [SQL Injection in JAVA and Types of SQL Injection](https://www.digitalocean.com/community/tutorials/sql-injection-in-java)
+- [PreparedStatement - How to prevent SQL Injection](https://www.baeldung.com/sql-injection)
+- [execute vs executeQuery vs executeUpdate](https://stackoverflow.com/questions/16625656/statement-executesql-vs-executeupdatesql-and-executequerysql)
+- [SQL DDL vs DML vs DCL](https://www.scaler.com/topics/ddl-dml-dcl/)
+- [Truncate vs Delete](https://canro91.github.io/2021/01/04/TruncateVsDelete/)
+
+- [MySQL Table Types Storage Engines](https://www.javatpoint.com/mysql-table-types-storage-engines)
+- [InnoDB MySQL Engine Key Features and Advantages](https://dev.mysql.com/doc/refman/8.0/en/innodb-introduction.html)
+
+- [Transactional Database - ACID Properties (Atomicity, Consistency, Isolation, Durability)](https://www.mongodb.com/basics/acid-transactions)
+- [One-To-One, One-To-Many and Many-To-Many relationships in Database Design](https://dzone.com/articles/how-to-handle-a-many-to-many-relationship-in-datab)
+
+- [Why SQL Indexes uses B-Trees instead of Hash Tables which have much faster Look-Up, Insert and Delete Times O(1) instead of O(logN) for B-Trees](https://dev.mysql.com/doc/refman/8.0/en/index-btree-hash.html)
+- [Same as Above - Short StackOverflow answer](https://stackoverflow.com/questions/1636379/why-db-indexes-use-balanced-trees-not-hashtables)
+- [B-Trees and B+Trees in Databases](https://builtin.com/data-science/b-tree-index)
+
+- [Java Optional](https://www.baeldung.com/java-optional)
+- [Compare Objects(Long) with equals not ==](https://www.baeldung.com/java-compare-long-values)
+- [Java Autoboxing and Unboxing](https://www.baeldung.com/java-primitives-vs-objects)
+
+### Practice
+
+#### Lab code example. Make sure it runs, fill in the missing repository methods and reproduce SQL Injection Attack. Debugger is your friend. 
+- [Really NICE MySQL Command Line Tutorial (Foreign Keys, Joins, Indexes, Triggers, Stored Procedures, etc.) - just skip the linux distro setup at the start.](https://www.youtube.com/watch?v=uWkcxasFWzQ)
+
+
+
+
+
+
 
 
