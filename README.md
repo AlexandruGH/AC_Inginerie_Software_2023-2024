@@ -112,26 +112,35 @@
 - [Clean Code Talks - Don't Look for Things](https://www.youtube.com/watch?v=RlfLCWKxHJ0) 
 
 ### Theory 
+
+#### SQL Injection Concept Attack & Defence
 - [SQL Injection Concept](https://youtu.be/_jKylhJtPmI?si=aAsNzd5KMsvbG6AS)
 - [SQL Injection in JAVA and Types of SQL Injection](https://www.digitalocean.com/community/tutorials/sql-injection-in-java)
 - [PreparedStatement - How to prevent SQL Injection](https://www.baeldung.com/sql-injection)
+
+#### Table Engines and specifics for SQL Queries
+- [MySQL Table Types Storage Engines](https://www.javatpoint.com/mysql-table-types-storage-engines)
+- [InnoDB MySQL Engine Key Features and Advantages](https://dev.mysql.com/doc/refman/8.0/en/innodb-introduction.html)
 - [execute vs executeQuery vs executeUpdate](https://stackoverflow.com/questions/16625656/statement-executesql-vs-executeupdatesql-and-executequerysql)
 - [SQL DDL vs DML vs DCL](https://www.scaler.com/topics/ddl-dml-dcl/)
 - [Truncate vs Delete](https://canro91.github.io/2021/01/04/TruncateVsDelete/)
 
-- [MySQL Table Types Storage Engines](https://www.javatpoint.com/mysql-table-types-storage-engines)
-- [InnoDB MySQL Engine Key Features and Advantages](https://dev.mysql.com/doc/refman/8.0/en/innodb-introduction.html)
-
+#### Transactional Behavior in Databases and ACID Properties
 - [Transactional Database - ACID Properties (Atomicity, Consistency, Isolation, Durability)](https://www.mongodb.com/basics/acid-transactions)
 - [One-To-One, One-To-Many and Many-To-Many relationships in Database Design](https://dzone.com/articles/how-to-handle-a-many-to-many-relationship-in-datab)
 
+#### Indexes specifics B-Trees: Search, Insert, Delete Times of O(Log(N))
 - [Why SQL Indexes uses B-Trees instead of Hash Tables which have much faster Look-Up, Insert and Delete Times O(1) instead of O(logN) for B-Trees](https://dev.mysql.com/doc/refman/8.0/en/index-btree-hash.html)
 - [Same as Above - Short StackOverflow answer](https://stackoverflow.com/questions/1636379/why-db-indexes-use-balanced-trees-not-hashtables)
 - [B-Trees and B+Trees in Databases](https://builtin.com/data-science/b-tree-index)
 
+#### Java features Discussed in the Lab
 - [Java Optional](https://www.baeldung.com/java-optional)
 - [Compare Objects(Long) with equals not ==](https://www.baeldung.com/java-compare-long-values)
 - [Java Autoboxing and Unboxing](https://www.baeldung.com/java-primitives-vs-objects)
+- [Java 8 features: Streams Lambda Expressions, Filter, Map, Reduce](https://www.sitepoint.com/java-8-streams-filter-map-reduce/)
+- [Java Parallel Stream](https://www.baeldung.com/java-when-to-use-parallel-stream)
+- [Functional Programming in Java](https://www.baeldung.com/java-functional-programming)
 
 ### Practice
 
