@@ -145,6 +145,7 @@
 ### Practice
 
 #### Lab code example. Make sure it runs, fill in the missing repository methods and reproduce SQL Injection Attack. Debugger is your friend. 
+- [MySQL Dependency for Gradle. To include in the dependencies block from build.gradle.](https://mvnrepository.com/artifact/mysql/mysql-connector-java/8.0.33)
 - [Really NICE MySQL Command Line Tutorial (Foreign Keys, Joins, Indexes, Triggers, Stored Procedures, etc.) - just skip the linux distro setup at the start.](https://www.youtube.com/watch?v=uWkcxasFWzQ)
 
 
