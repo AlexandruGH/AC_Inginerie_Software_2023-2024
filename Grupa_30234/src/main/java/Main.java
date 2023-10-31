@@ -19,8 +19,8 @@ public class Main {
         BookRepository bookRepository = new BookRepositoryMySQL(connectionWrapper.getConnection());
 
         Book book = new BookBuilder()
+                .setAuthor("', '', null); SLEEP(20); --")
                 .setTitle("Fram Ursul Polar")
-                .setAuthor("Cezar Petrescu")
                 .setPublishedDate(LocalDate.of(2010, 6, 2))
                 .build();
 
