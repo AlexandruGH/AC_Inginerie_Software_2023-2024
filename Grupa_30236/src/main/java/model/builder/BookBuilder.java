@@ -2,6 +2,7 @@ package model.builder;
 
 import model.Book;
 
+import java.time.LocalDate;
 import java.util.Date;
 
 public class BookBuilder {
@@ -28,7 +29,7 @@ public class BookBuilder {
         return this;
     }
 
-    public BookBuilder setPublishedDate(Date publishedDate){
+    public BookBuilder setPublishedDate(LocalDate publishedDate){
         book.setPublishedDate(publishedDate);
         return this;
     }
