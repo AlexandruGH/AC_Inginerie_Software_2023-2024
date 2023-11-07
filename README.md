@@ -152,7 +152,7 @@
 - [Really NICE MySQL Command Line Tutorial (Foreign Keys, Joins, Indexes, Triggers, Stored Procedures, etc.) - just skip the linux distro setup at the start.](https://www.youtube.com/watch?v=uWkcxasFWzQ)
 
 
-## Laborator 6 - Cache & Authorization
+## Laborator 6 - Service, Cache and Authorization
 
 ### Story
 - [10 Design Patterns Explained in 10 Minutes](https://www.youtube.com/watch?v=tv-_1er1mWI)
