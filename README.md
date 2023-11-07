@@ -152,9 +152,25 @@
 - [Really NICE MySQL Command Line Tutorial (Foreign Keys, Joins, Indexes, Triggers, Stored Procedures, etc.) - just skip the linux distro setup at the start.](https://www.youtube.com/watch?v=uWkcxasFWzQ)
 
 
+## Laborator 6 - Cache & Authorization
 
+### Story
+- [10 Design Patterns Explained in 10 Minutes](https://www.youtube.com/watch?v=tv-_1er1mWI)
+- [8 Design Patterns Every Developer Should Know](https://youtu.be/tAuRQs_d9F8?si=2IhKQrqXfchWvKCn)
 
+### Theory
 
+- [Decorator pattern](https://refactoring.guru/design-patterns/decorator)
+- [What is CPU Cache](https://www.youtube.com/watch?v=sHqNMHf2UNI)
+- [Database Relationships: One-To-One, One-To-Many, Many-To-Many | Foreign Keys, 1, 2, 3 Normalization Forms](https://www.youtube.com/playlist?list=PL_c9BZzLwBRKn20DFbNeLAAbw4ZMTlZPH)
+- [How to design One-To-One, One-To-Many and Many-To-Many relationships](https://stackoverflow.com/questions/7296846/how-to-implement-one-to-one-one-to-many-and-many-to-many-relationships-while-de)
+- [User Role Rights concepts simply detailed](https://www.linkedin.com/pulse/database-structure-user-role-management-aj-february)
+- [Role-based access control (RBAC) vs Attribute-based access control (ABAC)](https://www.nikhilajain.com/post/user-role-permission-model)
+
+### Practice
+
+#### Make sure current project is working and you understand its code and functionality
+#### Add suport for the EBook(Long id, String author, String title, String format, Date publishedDate) and AudioBook(Long id, String author, String title, int runTime, Date publishedDate) into our aplication: Service, Repository, Database, Model.
 
 
 
