@@ -162,6 +162,9 @@
 
 - [Decorator pattern](https://refactoring.guru/design-patterns/decorator)
 - [What is CPU Cache](https://www.youtube.com/watch?v=sHqNMHf2UNI)
+- [Performance Upgrade via Software Caching](https://orkhanscience.medium.com/upgrade-performance-via-caching-5-min-read-19fafd56d704)
+- [Caching in Software Development. What it is and how it works](https://auth0.com/blog/what-is-caching-and-how-it-works/)
+- [Pros and Cons of Caching](https://www.bytesizedpieces.com/posts/cache-pro-con)
 - [Database Relationships: One-To-One, One-To-Many, Many-To-Many | Foreign Keys, 1, 2, 3 Normalization Forms](https://www.youtube.com/playlist?list=PL_c9BZzLwBRKn20DFbNeLAAbw4ZMTlZPH)
 - [How to design One-To-One, One-To-Many and Many-To-Many relationships](https://stackoverflow.com/questions/7296846/how-to-implement-one-to-one-one-to-many-and-many-to-many-relationships-while-de)
 - [User Role Rights concepts simply detailed](https://www.linkedin.com/pulse/database-structure-user-role-management-aj-february)
