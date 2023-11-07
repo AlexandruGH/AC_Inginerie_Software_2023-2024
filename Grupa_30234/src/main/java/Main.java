@@ -1,12 +1,11 @@
 import database.JDBConnectionWrapper;
 import model.Book;
 import model.builder.BookBuilder;
-import repository.book.BookRepository;
-import repository.book.BookRepositoryMock;
-import repository.book.BookRepositoryMySQL;
+import repository.book.*;
+import service.BookService;
+import service.BookServiceImpl;
 
 import java.time.LocalDate;
-import java.util.Date;
 
 public class Main {
     public static void main(String[] args){
@@ -15,8 +14,12 @@ public class Main {
         JDBConnectionWrapper connectionWrapper = new JDBConnectionWrapper("test_library");
 
 
+        BookRepository bookRepository = new BookRepositoryCacheDecorator(
+                new BookRepositoryMySQL(connectionWrapper.getConnection()),
+                new Cache<>()
+                );
 
-        BookRepository bookRepository = new BookRepositoryMySQL(connectionWrapper.getConnection());
+        BookService bookService = new BookServiceImpl(bookRepository);
 
         Book book = new BookBuilder()
                 .setAuthor("', '', null); SLEEP(20); --")
@@ -24,10 +27,15 @@ public class Main {
                 .setPublishedDate(LocalDate.of(2010, 6, 2))
                 .build();
 
-        bookRepository.save(book);
+        bookService.save(book);
 
-        System.out.println(bookRepository.findAll());
+        System.out.println(bookService.findAll());
 
+
+
+        System.out.println(bookService.findAll());
+        System.out.println(bookService.findAll());
+        System.out.println(bookService.findAll());
 
     }
 }
