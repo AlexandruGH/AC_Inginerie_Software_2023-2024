@@ -176,4 +176,46 @@
 #### Add suport for the EBook(Long id, String author, String title, String format, Date publishedDate) and AudioBook(Long id, String author, String title, int runTime, Date publishedDate) into our aplication: Service, Repository, Database, Model.
 
 
+## Laborator 7 - Generics, Bootstrapping, Scripting, Constants, Hashing, Authentication and UI/JavaFX
 
+### Story
+- [SOLID & Design Patterns Playlist](https://www.youtube.com/playlist?list=PLiylfX2FA804u9U78n6BYXexWytlzAU3k)
+- []()
+
+
+### Theory
+
+#### Generic Repository
+- [Generic Repository just a lazy Anti-Pattern?](https://www.ben-morris.com/why-the-generic-repository-is-just-a-lazy-anti-pattern/)
+- [Downsides in the Generic Repository Pattern](https://www.c-sharpcorner.com/article/the-downsides-of-using-the-repository-pattern/)
+- [Generic Repository. Just using it wrong?](https://brianbu.com/2019/09/25/the-repository-pattern-isnt-an-anti-pattern-youre-just-doing-it-wrong/)
+- [Generic Repository Pattern Opinion](https://goodjava.org/blog?rec_id=17)
+
+#### Patterns, Anti-Patterns and Good Practices
+- [Builder Pattern Inheritance using Generics](https://binarycoders.dev/2020/02/24/builder-pattern-inheritance/)
+
+- [Java AntiPatterns](https://sourcemaking.com/antipatterns/software-development-antipatterns)
+- [The Law of Leaky Absractions](http://www.principles-wiki.net/principles:law_of_leaky_abstractions)
+
+- [Database Table Inheritance: One-Table vs One-Table-For-Each vs Joined-Table](https://dba.stackexchange.com/questions/36573/how-to-model-inheritance-of-two-tables-mysql)
+
+- [Java Constants Good Practices](https://www.baeldung.com/java-constants-good-practices)
+- [Java Static Keyword - especially static nested classes](https://www.baeldung.com/java-static)
+- [DAO vs Repository](https://www.baeldung.com/java-dao-vs-repository)
+- [Generics Type Parameter Bounds vs Wildcard](https://www.baeldung.com/java-generics-type-parameter-vs-wildcard)
+
+#### Password Hashing
+- [What makes a hasing algorithm good for password hashing?](https://crypto.stackexchange.com/questions/24/what-makes-a-hash-function-good-for-password-hashing)
+- [Password Hashing Competition - Who's the winner?](https://www.password-hashing.net/)
+- [The Best Algorithms for Hashing Passwords](https://www.bellatorcyber.com/blog/best-password-hashing-algorithms-of-2023)
+- [Password Pepper Explained](https://cloudbuild.co.uk/tag/password-pepper-explained/)
+- [Pepper Pros and Cons](https://nordpass.com/blog/pepper-password/)
+- [How to Store Passwords Securely with PBKDF2?](https://medium.com/@kasunpdh/how-to-store-passwords-securely-with-pbkdf2-204487f14e84)
+
+### Practice
+- [JavaFX Oracle Tutorial](https://docs.oracle.com/javafx/2/get_started/hello_world.htm)
+- [JavaFX Playlist](https://www.youtube.com/playlist?list=PL4h6ypqTi3RR_bhBk6PtLfD83YkaJXXxw)
+- [Java FX TheNewBoston Tutorial](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBzfXLWLSYVy8EbTdpGbUIG)
+- [Making Java Work with IntelliJ Gradle](https://www.youtube.com/watch?v=bRpGnCjJ0ro)
+
+#### Lab Code examples available on the branch and Explanation Recording
