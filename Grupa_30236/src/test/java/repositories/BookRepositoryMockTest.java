@@ -4,10 +4,10 @@ import model.Book;
 import model.builder.BookBuilder;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
-import repository.BookRepository;
-import repository.BookRepositoryCacheDecorator;
-import repository.BookRepositoryMock;
-import repository.Cache;
+import repository.book.BookRepository;
+import repository.book.BookRepositoryCacheDecorator;
+import repository.book.BookRepositoryMock;
+import repository.book.Cache;
 
 import java.util.Optional;
 
