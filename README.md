@@ -179,8 +179,8 @@
 ## Laborator 7 - Generics, Bootstrapping, Scripting, Constants, Hashing, Authentication and UI/JavaFX
 
 ### Story
-- [SOLID & Design Patterns Playlist](https://www.youtube.com/playlist?list=PLiylfX2FA804u9U78n6BYXexWytlzAU3k)
-- []()
+- [Must Know Junior Role Java Interview Questions](https://www.youtube.com/watch?v=auCdqGdn2as)
+- [20 System Design Concepts Explained in 10 Minutes](https://www.youtube.com/watch?v=i53Gi_K3o7I)
 
 
 ### Theory
@@ -205,6 +205,7 @@
 - [Generics Type Parameter Bounds vs Wildcard](https://www.baeldung.com/java-generics-type-parameter-vs-wildcard)
 
 #### Password Hashing
+- [JAVA Password Hashing](https://www.baeldung.com/java-password-hashing)
 - [What makes a hasing algorithm good for password hashing?](https://crypto.stackexchange.com/questions/24/what-makes-a-hash-function-good-for-password-hashing)
 - [Password Hashing Competition - Who's the winner?](https://www.password-hashing.net/)
 - [The Best Algorithms for Hashing Passwords](https://www.bellatorcyber.com/blog/best-password-hashing-algorithms-of-2023)
