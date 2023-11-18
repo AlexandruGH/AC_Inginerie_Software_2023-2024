@@ -216,6 +216,6 @@
 - [JavaFX Oracle Tutorial](https://docs.oracle.com/javafx/2/get_started/hello_world.htm)
 - [JavaFX Playlist](https://www.youtube.com/playlist?list=PL4h6ypqTi3RR_bhBk6PtLfD83YkaJXXxw)
 - [Java FX TheNewBoston Tutorial](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBzfXLWLSYVy8EbTdpGbUIG)
-- [Making Java Work with IntelliJ Gradle](https://www.youtube.com/watch?v=bRpGnCjJ0ro)
+- [Making JavaFX Work with IntelliJ Gradle](https://www.youtube.com/watch?v=bRpGnCjJ0ro)
 
 #### Lab Code examples available on the branch and Explanation Recording
