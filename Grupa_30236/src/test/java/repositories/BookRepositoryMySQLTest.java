@@ -6,10 +6,10 @@ import model.builder.BookBuilder;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import repository.BookRepository;
-import repository.BookRepositoryCacheDecorator;
-import repository.BookRepositoryMySQL;
-import repository.Cache;
+import repository.book.BookRepository;
+import repository.book.BookRepositoryCacheDecorator;
+import repository.book.BookRepositoryMySQL;
+import repository.book.Cache;
 
 import java.time.LocalDate;
 import java.util.List;
