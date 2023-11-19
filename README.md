@@ -179,8 +179,8 @@
 ## Laborator 7 - Generics, Bootstrapping, Scripting, Constants, Hashing, Authentication and UI/JavaFX
 
 ### Story
+- [How to get ahead of 99% of Software Engineers](https://youtu.be/q9240p1hacc?si=mZB46iFKUHva9g7M)
 - [Must Know Junior Role Java Interview Questions](https://www.youtube.com/watch?v=auCdqGdn2as)
-- [20 System Design Concepts Explained in 10 Minutes](https://www.youtube.com/watch?v=i53Gi_K3o7I)
 
 
 ### Theory
@@ -214,8 +214,6 @@
 - [How to Store Passwords Securely with PBKDF2?](https://medium.com/@kasunpdh/how-to-store-passwords-securely-with-pbkdf2-204487f14e84)
 
 ### Practice
-- [JavaFX Oracle Tutorial](https://docs.oracle.com/javafx/2/get_started/hello_world.htm)
-- [JavaFX Playlist](https://www.youtube.com/playlist?list=PL4h6ypqTi3RR_bhBk6PtLfD83YkaJXXxw)
 - [Java FX TheNewBoston Tutorial](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBzfXLWLSYVy8EbTdpGbUIG)
 - [Making JavaFX Work with IntelliJ Gradle](https://www.youtube.com/watch?v=bRpGnCjJ0ro)
 
