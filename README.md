@@ -204,9 +204,25 @@
 - [DAO vs Repository](https://www.baeldung.com/java-dao-vs-repository)
 - [Generics Type Parameter Bounds vs Wildcard](https://www.baeldung.com/java-generics-type-parameter-vs-wildcard)
 
+### Practice
+- [Java FX TheNewBoston Tutorial](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBzfXLWLSYVy8EbTdpGbUIG)
+- [Making JavaFX Work with IntelliJ Gradle](https://www.youtube.com/watch?v=bRpGnCjJ0ro)
+
+#### Lab Code examples available on the branch and Explanation Recording
+
+
+## Laboratory 8 - Fowler Notification Pattern, Password and how to store them
+
+### Theory
+- [Fowler Notification Pattern](https://martinfowler.com/articles/replaceThrowWithNotification.html)
+
 #### Password Hashing
+- [Have I been pwned?](https://haveibeenpwned.com/)
 - [JAVA Password Hashing](https://www.baeldung.com/java-password-hashing)
+- [Is your password in one of this lists? Change it now!](https://wiki.skullsecurity.org/index.php/Passwords)
 - [What makes a hasing algorithm good for password hashing?](https://crypto.stackexchange.com/questions/24/what-makes-a-hash-function-good-for-password-hashing)
+- [Rainbow table](https://www.csoonline.com/article/570931/rainbow-tables-explained-how-they-work-and-why-theyre-mostly-obsolete.html)
+- [SALTING Passwords. How to protect against Rainbow Table attacks](https://auth0.com/blog/adding-salt-to-hashing-a-better-way-to-store-passwords/)
 - [Password Hashing Competition - Who's the winner?](https://www.password-hashing.net/)
 - [The Best Algorithms for Hashing Passwords](https://www.bellatorcyber.com/blog/best-password-hashing-algorithms-of-2023)
 - [Password Pepper Explained](https://cloudbuild.co.uk/tag/password-pepper-explained/)
@@ -214,7 +230,7 @@
 - [How to Store Passwords Securely with PBKDF2?](https://medium.com/@kasunpdh/how-to-store-passwords-securely-with-pbkdf2-204487f14e84)
 
 ### Practice
-- [Java FX TheNewBoston Tutorial](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBzfXLWLSYVy8EbTdpGbUIG)
-- [Making JavaFX Work with IntelliJ Gradle](https://www.youtube.com/watch?v=bRpGnCjJ0ro)
-
-#### Lab Code examples available on the branch and Explanation Recording
+- [Java FX Table View](https://docs.oracle.com/javafx/2/ui_controls/table-view.htm)
+- [Java FX how to switch scenes](https://www.youtube.com/watch?v=7LxWQIDOzyE&list=PL6gx4Cwl9DGBzfXLWLSYVy8EbTdpGbUIG&index=4)
+- [Java FX Table View - Videos 17 to 20](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBzfXLWLSYVy8EbTdpGbUIG)
+- [Java FX Data Binding and Properties - Videos 28 to 30](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBzfXLWLSYVy8EbTdpGbUIG)
