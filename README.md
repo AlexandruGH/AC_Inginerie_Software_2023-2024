@@ -218,6 +218,7 @@
 
 #### Password Hashing
 - [Have I been pwned?](https://haveibeenpwned.com/)
+- [Hashing Algorithm Properties](https://www.analog.com/en/technical-articles/back-to-basics-secure-hash-algorithms.html)
 - [JAVA Password Hashing](https://www.baeldung.com/java-password-hashing)
 - [Is your password in one of this lists? Change it now!](https://wiki.skullsecurity.org/index.php/Passwords)
 - [What makes a hasing algorithm good for password hashing?](https://crypto.stackexchange.com/questions/24/what-makes-a-hash-function-good-for-password-hashing)
