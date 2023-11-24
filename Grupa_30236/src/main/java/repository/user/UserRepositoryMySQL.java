@@ -30,6 +30,11 @@ public class UserRepositoryMySQL implements UserRepository {
         return null;
     }
 
+    // SQL Injection Attacks should not work after fixing functions
+    // Be careful that the last character in sql injection payload is an empty space
+    // alexandru.ghiurutan95@gmail.com' and 1=1; --
+    // ' or username LIKE '%admin%'; --
+
     @Override
     public Notification<User> findByUsernameAndPassword(String username, String password) {
 

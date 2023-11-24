@@ -8,6 +8,7 @@ public class Launcher extends Application {
         launch(args);
     }
 
+    // Iterative Programming
     @Override
     public void start(Stage primaryStage) throws Exception {
         ComponentFactory componentFactory = ComponentFactory.getInstance(false, primaryStage);
