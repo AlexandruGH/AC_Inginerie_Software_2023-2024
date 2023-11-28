@@ -235,3 +235,15 @@
 - [Java FX how to switch scenes](https://www.youtube.com/watch?v=7LxWQIDOzyE&list=PL6gx4Cwl9DGBzfXLWLSYVy8EbTdpGbUIG&index=4)
 - [Java FX Table View - Videos 17 to 20](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBzfXLWLSYVy8EbTdpGbUIG)
 - [Java FX Data Binding and Properties - Videos 28 to 30](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBzfXLWLSYVy8EbTdpGbUIG)
+
+## Laboratory 9 - Command, Strategy, Observer, MVC
+
+### Theory
+- [Java Record](https://www.baeldung.com/java-record-keyword)
+- [Record usage](https://medium.com/@reetesh043/record-java-new-feature-daf97797bf3a)
+- [Command Design Pattern](https://www.youtube.com/watch?v=UfGD60BYzPM&t=234s)
+- [Strategy Design Pattern](https://www.digitalocean.com/community/tutorials/strategy-design-pattern-in-java-example-tutorial)
+
+### Practice
+- [Command implementation in JAVA](https://github.com/geekific-official/geekific-youtube/tree/main/design-patterns/behavioral-command/src/main/java/com/youtube/geekific)
+- [Command Undo & Redo Stack Implementation with MCV Pattern implemented with the help of Observer Pattern](https://github.com/AlexandruGH/AC_Inginerie_Software_2023-2024/tree/commandUndoRedoWithJavaFX)
