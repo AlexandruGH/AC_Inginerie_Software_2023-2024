@@ -247,3 +247,38 @@
 ### Practice
 - [Command implementation in JAVA](https://github.com/geekific-official/geekific-youtube/tree/main/design-patterns/behavioral-command/src/main/java/com/youtube/geekific)
 - [Command Undo & Redo Stack Implementation with MCV Pattern implemented with the help of Observer Pattern](https://github.com/AlexandruGH/AC_Inginerie_Software_2023-2024/tree/commandUndoRedoWithJavaFX)
+
+## Laboratory 10 - Project Presentation and Laboratory Test
+
+## Laboratory 11 - Networking, MultiThreading and Chat Application
+
+### Theory
+- [The Two Generals Problem](https://youtu.be/s8Wbt0b8bwY?si=S0S9Covt3fjbbV8T)
+- [A very nice Networking tutorial by thenewboston](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBpuvPW0aHa7mKdn_k9SPKO)
+- [50 common ports you should know](https://www.geeksforgeeks.org/50-common-ports-you-should-know/)
+- [Private vs Public IP Addresses](https://www.techtarget.com/whatis/definition/private-IP-address)
+- [What is a MAC Address?](https://youtu.be/UrG7RTWIJak?si=DlF0sO6oFSZw_9OP)
+- [What settings you should change at your Router?](https://www.youtube.com/watch?v=mJnIgjyjEtc)
+- [Internet Protocal IPv4 vs IPv6](https://www.youtube.com/watch?v=aor29pGhlFE)
+- [Domain Name Service - DNS](https://youtu.be/Rck3BALhI5c?si=KwDplo7QGiyzGn8K)
+- [TCP/IP vs UDP Protocols](https://www.youtube.com/watch?v=PpsEaqJV_A0)
+- [What is Internet?](https://youtu.be/n71TUnTNdw8?si=wYb-HkmIXNeP1B4G)
+- [What is ping command?](https://youtu.be/aowuBUIX4Wk?si=54KoV3cnqV6cLtFc)
+- [The New Java Concurency Model - Project Loom](https://www.infoworld.com/article/3652596/project-loom-understand-the-new-java-concurrency-model.html)
+- [CPU vs I/O Bound Tasks](https://www.atatus.com/ask/cpu-io-memory-bound)
+- [Multiprocessing vs Multithreading](https://www.baeldung.com/cs/multiprocessing-multithreading)
+- [Thread Pools in Java](https://www.baeldung.com/thread-pool-java-and-guava)
+- [Virtual Threads in Java - explanation and performance comparison](https://developer.okta.com/blog/2022/08/26/state-of-java-project-loom)
+- [Virtual Threads in Java - a nice guide](https://blog.rockthejvm.com/ultimate-guide-to-java-virtual-threads/)
+- [Virtual Threads in Java video explanation](https://www.youtube.com/watch?v=bOnIYy3Y5OA)
+- [Why to use an Executor Service with Virtual Threads?](https://www.youtube.com/watch?v=N2sskKGnCqc)
+- [Can two threads call two different static synchronized methods of the same class? - Q6) Java Multithreading interview questions](https://java-questions.com/Threads-interview1-questions.html)
+- [Java compiled or interpreted language? Or Both!?](https://www.baeldung.com/java-compiled-interpreted)
+
+### Practice
+- [MultiThreading in Java Tutorial: syncronized, volatile, Thread Pools, locks, Runnable, Callable, Future](https://www.youtube.com/playlist?list=PLBB24CFB073F1048E)
+- [Ngrok for tunneling traffic](https://ngrok.com/download)
+- [Great nmap hacker tutorial](https://www.youtube.com/watch?v=4t4kBkMsDbQ)
+- [Nmap - Hacker mode on - for your local home network](https://nmap.org/download.html#windows)
+#### Chat Application example 
+
