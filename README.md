@@ -254,6 +254,7 @@
 
 ### Theory
 - [The Two Generals Problem](https://youtu.be/s8Wbt0b8bwY?si=S0S9Covt3fjbbV8T)
+- [TCP Handshake](https://www.geeksforgeeks.org/why-tcp-connect-termination-need-4-way-handshake/)
 - [A very nice Networking tutorial by thenewboston](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBpuvPW0aHa7mKdn_k9SPKO)
 - [50 common ports you should know](https://www.geeksforgeeks.org/50-common-ports-you-should-know/)
 - [Private vs Public IP Addresses](https://www.techtarget.com/whatis/definition/private-IP-address)
@@ -264,6 +265,7 @@
 - [TCP/IP vs UDP Protocols](https://www.youtube.com/watch?v=PpsEaqJV_A0)
 - [What is Internet?](https://youtu.be/n71TUnTNdw8?si=wYb-HkmIXNeP1B4G)
 - [What is ping command?](https://youtu.be/aowuBUIX4Wk?si=54KoV3cnqV6cLtFc)
+- [Java Socket Programming Guide](https://www.baeldung.com/a-guide-to-java-sockets)
 - [The New Java Concurency Model - Project Loom](https://www.infoworld.com/article/3652596/project-loom-understand-the-new-java-concurrency-model.html)
 - [CPU vs I/O Bound Tasks](https://www.atatus.com/ask/cpu-io-memory-bound)
 - [Multiprocessing vs Multithreading](https://www.baeldung.com/cs/multiprocessing-multithreading)
