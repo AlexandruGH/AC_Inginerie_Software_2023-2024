@@ -254,6 +254,7 @@
 
 ### Theory
 - [The Two Generals Problem](https://youtu.be/s8Wbt0b8bwY?si=S0S9Covt3fjbbV8T)
+- [History of the Internet](https://www.youtube.com/watch?v=s8Wbt0b8bwY)
 - [TCP Handshake](https://www.geeksforgeeks.org/why-tcp-connect-termination-need-4-way-handshake/)
 - [A very nice Networking tutorial by thenewboston](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBpuvPW0aHa7mKdn_k9SPKO)
 - [50 common ports you should know](https://www.geeksforgeeks.org/50-common-ports-you-should-know/)
