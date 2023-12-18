@@ -284,3 +284,26 @@
 - [Nmap - Hacker mode on - for your local home network](https://nmap.org/download.html#windows)
 #### Chat Application example 
 
+## Laboratory 12 - Client Server, Peer-to-Peer, HTTP & REST, Async & Await
+
+### Theory
+- [Byzantine Generals Problem](https://youtu.be/dfsRQyYXOsQ?si=yEeTb3iaHnnx8x81)
+- [ACID](https://www.mongodb.com/basics/acid-transactions)
+- [Transactional Behaviour](https://www.linode.com/docs/guides/a-primer-on-sql-transactions/)
+- [API - Application Programming Interface](https://www.techtarget.com/searchapparchitecture/definition/application-program-interface-API)
+- [HTTP vs REST](https://www.baeldung.com/cs/rest-vs-http)
+- [Is Java A Compiled Language? Byte Code, JVM and JIT](https://www.youtube.com/watch?v=y6VvxGHCxa4&list=PLjrTIwaNiTwmFQfM8yQUUdBV_PjczAwcs&index=4)
+- [Asynchronous Programming in Java](https://www.baeldung.com/java-asynchronous-programming?fbclid=IwAR24Uf4COw6Om6u5Cr4vNt81S5MUdKSs6MJQRMainWgV_6eXeLm4PEliQyE)
+- [Virtual Threads - A different async/await](https://www.youtube.com/watch?v=JWZxyrHBppA)
+- [Virtual Threads - Death of Async Await](https://theboreddev.com/understanding-java-virtual-threads/?fbclid=IwAR2WZS3qv0JAxz3E8BtOZt6deliD8KPMi3Nt9i9Op9GLDJvjs0HTArhgeIc)
+- [CRUD API Design](https://blog.stoplight.io/crud-api-design)
+- [Best Practices for a Pragmatic RESTfull API](https://www.youtube.com/watch?v=JWZxyrHBppA)
+- [TCP vs UDP](https://www.youtube.com/watch?v=v6m4DbhQQ_8)
+- [Actor Model Explained](https://youtu.be/ELwEdb_pD0k?si=F3a0PrClOydJlj6l)
+
+### Practice
+
+
+### Bonus 
+- [React First Example](https://react.dev/learn/tutorial-tic-tac-toe)
+- [React & Full Stack Course](https://fullstackopen.com/en/about)
