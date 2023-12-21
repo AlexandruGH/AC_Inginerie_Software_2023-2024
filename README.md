@@ -289,10 +289,12 @@
 ### Theory
 - [Byzantine Generals Problem](https://youtu.be/dfsRQyYXOsQ?si=yEeTb3iaHnnx8x81)
 - [How Bitcoin works?](https://youtu.be/L-Qhv8kLESY?si=xS7DRzEkk_9JuL6H)
+- [MVC Explained](https://developer.mozilla.org/en-US/docs/Glossary/MVC)
 - [ACID](https://www.mongodb.com/basics/acid-transactions)
 - [Transactional Behaviour](https://www.linode.com/docs/guides/a-primer-on-sql-transactions/)
 - [API - Application Programming Interface](https://www.techtarget.com/searchapparchitecture/definition/application-program-interface-API)
 - [HTTP vs REST](https://www.baeldung.com/cs/rest-vs-http)
+- [Top 10 most common HTTP status codes](https://www.dotcom-monitor.com/blog/the-10-most-common-http-status-codes/)
 - [Is Java A Compiled Language? Byte Code, JVM and JIT](https://www.youtube.com/watch?v=y6VvxGHCxa4&list=PLjrTIwaNiTwmFQfM8yQUUdBV_PjczAwcs&index=4)
 - [Asynchronous Programming in Java](https://www.baeldung.com/java-asynchronous-programming?fbclid=IwAR24Uf4COw6Om6u5Cr4vNt81S5MUdKSs6MJQRMainWgV_6eXeLm4PEliQyE)
 - [Virtual Threads - A different async/await](https://www.youtube.com/watch?v=JWZxyrHBppA)
@@ -308,5 +310,8 @@
 
 
 ### Bonus 
+- [Deploy Spring Boot app with Docker and Render example](https://javawhizz.com/2023/03/host-a-spring-boot-application-for-free-on-render)
 - [React First Example](https://react.dev/learn/tutorial-tic-tac-toe)
 - [React & Full Stack Course](https://fullstackopen.com/en/about)
+- [Juice Shop Penetration Testing](https://github.com/juice-shop/juice-shop)
+- [Crypto Zombie Blockchain Smart Contracts with Solidity Tutorial](https://cryptozombies.io/en/solidity)
