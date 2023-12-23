@@ -294,6 +294,7 @@
 - [Transactional Behaviour](https://www.linode.com/docs/guides/a-primer-on-sql-transactions/)
 - [API - Application Programming Interface](https://www.techtarget.com/searchapparchitecture/definition/application-program-interface-API)
 - [HTTP vs REST](https://www.baeldung.com/cs/rest-vs-http)
+- [REST & RESTfull API Explained](https://youtu.be/lsMQRaeKNDk?si=0qgT0hvHqDG0WdHk)
 - [Top 10 most common HTTP status codes](https://www.dotcom-monitor.com/blog/the-10-most-common-http-status-codes/)
 - [Is Java A Compiled Language? Byte Code, JVM and JIT](https://www.youtube.com/watch?v=y6VvxGHCxa4&list=PLjrTIwaNiTwmFQfM8yQUUdBV_PjczAwcs&index=4)
 - [Asynchronous Programming in Java](https://www.baeldung.com/java-asynchronous-programming?fbclid=IwAR24Uf4COw6Om6u5Cr4vNt81S5MUdKSs6MJQRMainWgV_6eXeLm4PEliQyE)
