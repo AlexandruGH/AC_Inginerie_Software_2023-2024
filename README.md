@@ -323,12 +323,13 @@
 - [Honeypots in Cybersecurity](https://www.kaspersky.com/resource-center/threats/what-is-a-honeypot)
 - [Honeypots in Cybersecurity video](https://www.youtube.com/watch?v=1hGpB2P7WKI)
 - [Virus Total - free scanning for your downloaded applications](https://www.virustotal.com/)
+- [BCrypt Hashing Algorithm Explained](https://en.wikipedia.org/wiki/Bcrypt)
 - [Shallow Web vs Deep Web vs Dark Web](https://youtu.be/nKrODPtVinw?si=4fkfdiXNLYfG9yjR)
 - [Is Java Compiled or Interpreted? Both.](https://www.baeldung.com/java-compiled-interpreted)
 - [Statically vs Dynamically & Strong vs Weakly Typed Languages](https://velog.io/@dhlee91/Static-vs.-Dynamic-Strong-vs.-Weak-typing)
 - [Scraping vs Crawling](https://www.zyte.com/learn/difference-between-web-scraping-and-web-crawling/)
 - [A very brief description of 5 Software Architecture Patterns](https://orkhanscience.medium.com/software-architecture-patterns-5-mins-read-e9e3c8eb47d2)
-- 
+  
 ### Practice
 - [Spring Security](https://docs.spring.io/spring-security/reference/servlet/authentication/passwords/form.html?fbclid=IwAR3mlxUt7mb1VDBrxnChdy4kefdj3bWmXKGHYKC1TPzHYRGnXyoMGkQlNHw)
 - [Spring @RestController = @Controller + @ResponseBody](https://www.baeldung.com/spring-controller-vs-restcontroller)
