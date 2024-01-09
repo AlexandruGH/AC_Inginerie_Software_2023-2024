@@ -310,8 +310,35 @@
 ### Practice
 
 
+## Laboratory 12 - Client Server, Peer-to-Peer, HTTP & REST, Async & Await
+
+### Theory
+- [DRY KISS YAGNI](https://henriquesd.medium.com/dry-kiss-yagni-principles-1ce09d9c601f)
+- [Law Of Demeter](https://www.baeldung.com/java-demeter-law)
+- [SOC - Separation of Concerns](https://www.oreilly.com/library/view/software-architects-handbook/9781788624060/8ff905c2-217a-47f0-85c2-789296d42e8d.xhtml)
+- [DYC & SLAP](https://www.linkedin.com/pulse/6-programming-principles-you-should-know-sijin-thomas-ninan/)
+- [End-To-End Encryption](https://youtu.be/TImdsUglGv4?si=c601neNVq03z42j4)
+- [What REST actually is](https://codewords.recurse.com/issues/five/what-restful-actually-means)
+- [robots.txt sitemap.xml security.txt humans.txt](https://owasp.org/www-project-web-security-testing-guide/stable/4-Web_Application_Security_Testing/01-Information_Gathering/03-Review_Webserver_Metafiles_for_Information_Leakage)
+- [Honeypots in Cybersecurity](https://www.kaspersky.com/resource-center/threats/what-is-a-honeypot)
+- [Honeypots in Cybersecurity video](https://www.youtube.com/watch?v=1hGpB2P7WKI)
+- [Virus Total - free scanning for your downloaded applications](https://www.virustotal.com/)
+- [Shallow Web vs Deep Web vs Dark Web](https://youtu.be/nKrODPtVinw?si=4fkfdiXNLYfG9yjR)
+- [Is Java Compiled or Interpreted? Both.](https://www.baeldung.com/java-compiled-interpreted)
+- [Statically vs Dynamically & Strong vs Weakly Typed Languages](https://velog.io/@dhlee91/Static-vs.-Dynamic-Strong-vs.-Weak-typing)
+- [Scraping vs Crawling](https://www.zyte.com/learn/difference-between-web-scraping-and-web-crawling/)
+- [A very brief description of 5 Software Architecture Patterns](https://orkhanscience.medium.com/software-architecture-patterns-5-mins-read-e9e3c8eb47d2)
+- 
+### Practice
+- [Spring Security](https://docs.spring.io/spring-security/reference/servlet/authentication/passwords/form.html?fbclid=IwAR3mlxUt7mb1VDBrxnChdy4kefdj3bWmXKGHYKC1TPzHYRGnXyoMGkQlNHw)
+- [Spring @RestController = @Controller + @ResponseBody](https://www.baeldung.com/spring-controller-vs-restcontroller)
+- [Scraping BeautifulSoup vs Selenium vs Scrapy](https://www.youtube.com/watch?v=J82SxHP5SWY)
+- [Web Scraping Full Beginner Tutorial](https://www.youtube.com/playlist?list=PLRzwgpycm-FiTz9bGQoITAzFEOJkbF6Qp)
+
+-[Spring Security Project](https://github.com/AlexandruGH/SpringBootRenderExample)
+
 ### Bonus 
-- [Deploy Spring Boot app with Docker and Render example](https://javawhizz.com/2023/03/host-a-spring-boot-application-for-free-on-render)
+- [Deploy Spring Boot app with Railway](https://www.youtube.com/watch?v=F-Y67-DiM9c&t=348s)
 - [React First Example](https://react.dev/learn/tutorial-tic-tac-toe)
 - [React & Full Stack Course](https://fullstackopen.com/en/about)
 - [Juice Shop Penetration Testing](https://github.com/juice-shop/juice-shop)
