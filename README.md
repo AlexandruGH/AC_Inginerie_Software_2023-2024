@@ -310,7 +310,7 @@
 ### Practice
 
 
-## Laboratory 12 - Client Server, Peer-to-Peer, HTTP & REST, Async & Await
+## Laboratory 13 - Spring Security, Deployment, Scrapers & Crawlers and New Design Principles
 
 ### Theory
 - [DRY KISS YAGNI](https://henriquesd.medium.com/dry-kiss-yagni-principles-1ce09d9c601f)
@@ -335,12 +335,31 @@
 - [Spring @RestController = @Controller + @ResponseBody](https://www.baeldung.com/spring-controller-vs-restcontroller)
 - [Scraping BeautifulSoup vs Selenium vs Scrapy](https://www.youtube.com/watch?v=J82SxHP5SWY)
 - [Web Scraping Full Beginner Tutorial](https://www.youtube.com/playlist?list=PLRzwgpycm-FiTz9bGQoITAzFEOJkbF6Qp)
-
--[Spring Security Project](https://github.com/AlexandruGH/SpringBootRenderExample)
+- [Scraping Amazon Product Reviews](https://dev.to/mohammadfaisal/scraping-amazon-product-reviews-2e3g?fbclid=IwAR3Xq2lzfzEaxW8QF14ailAnLx7U1w7bzA6ndZ8T-9B7kr5kHnrkKPoJsgQ)
+- [Spring Security Project](https://github.com/AlexandruGH/SpringBootRenderExample)
 
 ### Bonus 
 - [Deploy Spring Boot app with Railway](https://www.youtube.com/watch?v=F-Y67-DiM9c&t=348s)
+
+## Laboratory 14 - Project Presentations and Evaluation
+
+## Bonus Lab 
+
+### Story
+
+- [Spring Boot & React & MySql & Docker & JWT Web Application](https://www.youtube.com/playlist?list=PL2OrQJM8zmZ2-O_rM2Ju9zYMbY8Ta-8I4)
+
+- [5 Architecture Design Patterns](https://orkhanscience.medium.com/software-architecture-patterns-5-mins-read-e9e3c8eb47d2)
+- [Web Development Career Paths](https://www.youtube.com/watch?v=1_gLbLPx2T8)
+- [MERN Stack Full Project](https://www.youtube.com/watch?v=CvCiNeLnZ00)
+- [Traversy Media Web Development - First 4 Tutorials (Html, Css, JS, React)](https://www.youtube.com/playlist?list=PLillGF-RfqbYeckUaD1z6nviTp31GLTH8)
+- [Odin Project - Full Stack Java Script Path](https://www.theodinproject.com/paths)
+- [Freecodecamp - Full Stack and beyond](https://www.freecodecamp.org/learn)
+- [How to learn React?](https://www.freecodecamp.org/news/the-react-roadmap-learn-react/?fbclid=IwAR1etzCJQ_Pbw8BkFXsaMWNqSdYRVqUNEMQyhq7d539xAz3VnKyuueCli0M)
 - [React First Example](https://react.dev/learn/tutorial-tic-tac-toe)
 - [React & Full Stack Course](https://fullstackopen.com/en/about)
+- [NodeJS Backend Roadmap](https://github.com/alirezanqp/nodejs-backend-roadmap?fbclid=IwAR0sZdasKTz8USINPWdDfL9fUiKDl5KY8UIv8DHvWKhWMI3d7Ybw2bN9oeA)
 - [Juice Shop Penetration Testing](https://github.com/juice-shop/juice-shop)
 - [Crypto Zombie Blockchain Smart Contracts with Solidity Tutorial](https://cryptozombies.io/en/solidity)
+
+
