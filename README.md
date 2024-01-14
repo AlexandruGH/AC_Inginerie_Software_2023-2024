@@ -345,8 +345,6 @@
 
 ## Bonus Lab 
 
-### Story
-
 - [Spring Boot & React & MySql & Docker & JWT Web Application](https://www.youtube.com/playlist?list=PL2OrQJM8zmZ2-O_rM2Ju9zYMbY8Ta-8I4)
 
 - [5 Architecture Design Patterns](https://orkhanscience.medium.com/software-architecture-patterns-5-mins-read-e9e3c8eb47d2)
