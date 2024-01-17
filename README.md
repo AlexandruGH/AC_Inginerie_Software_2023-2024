@@ -361,3 +361,14 @@
 - [Crypto Zombie Blockchain Smart Contracts with Solidity Tutorial](https://cryptozombies.io/en/solidity)
 
 
+## Bonus Financial Independence
+- [How the pension pillars I, II, III work?](https://www.youtube.com/watch?v=SmFn2FlaVVw)
+- [The 8th Wonder of the World - Compound Interest](https://www.indiatimes.com/worth/news/albert-einstein-compound-interest-eighth-wonder-of-the-world-614000.html)
+- [Stock Market Guide with Dividend Growth Investing Explained](https://www.youtube.com/watch?v=nUyX7gH2H58&t=4s)
+- [What house and car you can afford?](https://www.youtube.com/live/YINuutgoiRA?si=gOK5Zsr5cq0dqRr4)
+- [13 Mistakes in house acquisition](https://www.youtube.com/watch?v=W_CmxY-KV_g)
+- [How to early pay the mortgage loan?](https://www.youtube.com/watch?v=G_229dl7kQ8)
+- [Mutual Funds vs Index Funds](https://www.newyorklife.com/articles/index-fund-vs-mutual-fund)
+- [Index Funds vs ETF's](https://www.investopedia.com/ask/answers/033015/whats-difference-between-index-fund-and-etf.asp)
+- [How The Economic Machine Works by Ray Dalio](https://youtu.be/PHe0bXAIuk0?si=ITZdU0cvrc2FS692)
+
