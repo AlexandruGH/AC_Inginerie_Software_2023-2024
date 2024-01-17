@@ -345,11 +345,18 @@
 
 ## Bonus Lab 
 
-- [Spring Boot & React & MySql & Docker & JWT Web Application](https://www.youtube.com/playlist?list=PL2OrQJM8zmZ2-O_rM2Ju9zYMbY8Ta-8I4)
+### Theory 
+
 - [Agile vs Waterfall Methodology](https://www.forbes.com/advisor/business/agile-vs-waterfall-methodology/)
 - [Agile vs Waterfall. What's the difference?](https://www.theserverside.com/tip/Agile-vs-Waterfall-Whats-the-difference)
+- [Martin Fowler Software Architecture Short Guide](https://martinfowler.com/architecture/)
 - [5 Architecture Design Patterns](https://orkhanscience.medium.com/software-architecture-patterns-5-mins-read-e9e3c8eb47d2)
+- [Martin Fowler - Patterns of Enterprise Application Architecture](https://dl.ebooksworld.ir/motoman/Patterns%20of%20Enterprise%20Application%20Architecture.pdf)
 - [Web Development Career Paths](https://www.youtube.com/watch?v=1_gLbLPx2T8)
+
+### Practice
+
+- [Spring Boot & React & MySql & Docker & JWT Web Application](https://www.youtube.com/playlist?list=PL2OrQJM8zmZ2-O_rM2Ju9zYMbY8Ta-8I4)
 - [MERN Stack Full Project](https://www.youtube.com/watch?v=CvCiNeLnZ00)
 - [Traversy Media Web Development - First 4 Tutorials (Html, Css, JS, React)](https://www.youtube.com/playlist?list=PLillGF-RfqbYeckUaD1z6nviTp31GLTH8)
 - [Odin Project - Full Stack Java Script Path](https://www.theodinproject.com/paths)
