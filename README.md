@@ -346,7 +346,8 @@
 ## Bonus Lab 
 
 - [Spring Boot & React & MySql & Docker & JWT Web Application](https://www.youtube.com/playlist?list=PL2OrQJM8zmZ2-O_rM2Ju9zYMbY8Ta-8I4)
-
+- [Agile vs Waterfall Methodology](https://www.forbes.com/advisor/business/agile-vs-waterfall-methodology/)
+- [Agile vs Waterfall. What's the difference?](https://www.theserverside.com/tip/Agile-vs-Waterfall-Whats-the-difference)
 - [5 Architecture Design Patterns](https://orkhanscience.medium.com/software-architecture-patterns-5-mins-read-e9e3c8eb47d2)
 - [Web Development Career Paths](https://www.youtube.com/watch?v=1_gLbLPx2T8)
 - [MERN Stack Full Project](https://www.youtube.com/watch?v=CvCiNeLnZ00)
